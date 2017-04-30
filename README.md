@@ -21,7 +21,7 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjoidGVzdCIsImV4cCI6MTQ5MzUzMTA0NX0
 ## Decode
 
 ```
-ruby encode
+ruby decode PUBLISHED_TOKEN
 ```
 
 ex) 
